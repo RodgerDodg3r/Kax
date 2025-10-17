@@ -1,0 +1,6 @@
+PRINT "HELLO WORLD!"
+LET X = 0
+PRINT X
+//Hey it does support comments!
+//Moving interprator to the first line!
+GOTO 1
